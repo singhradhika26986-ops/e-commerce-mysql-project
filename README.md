@@ -36,8 +36,10 @@ It manages users, products, orders, and order items while maintaining relational
 ---
 
 # Project Structure
-
+ecommerce_database.sql
+README.md
 ---
 
 # Author
 Radhika Singh
+
