@@ -1,31 +1,43 @@
-# E-commerce MySQL Database Project
+# E-Commerce Database Management System (MySQL)
 
-# Project Description
-This project is a simple E-commerce database built using MySQL.
-It manages users, products, orders, and order items.
+# Project Overview
+This project simulates a real-world e-commerce database system using MySQL.  
+It manages users, products, orders, and order items while maintaining relational integrity and implementing business logic.
 
-# Database Tables
-- users → stores customer information
-- products → stores product details
-- orders → stores order records
-- order_items → stores product quantity in each order
+---
 
-# Features
-- Create database schema
-- Insert sample data
-- Table relationships using foreign keys
-- JOIN queries to fetch order details
+# Database Features
+
+- Fully normalized relational schema
+- Primary and Foreign Key constraints
+- ON DELETE CASCADE implementation
+- Trigger for automatic stock deduction after order placement
+- Stored Procedure to fetch customer order details
+- SQL View for generating sales reports
+- Analytical queries for revenue calculation
+
+---
+
+# Business Queries Implemented
+
+- Customer total spending report
+- Product-wise revenue report
+- Most valuable customer
+- Low stock detection query
+
+---
 
 # Technologies Used
+
 - MySQL
 - MySQL Workbench
+- GitHub
 
-# Sample Query
-Used JOIN to fetch:
-- Customer name
-- Product name
-- Quantity ordered
+---
+
+# Project Structure
+
+---
 
 # Author
 Radhika Singh
-
