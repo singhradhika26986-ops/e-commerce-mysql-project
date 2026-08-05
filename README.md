@@ -41,5 +41,5 @@ README.md
 ---
 
 # Author
-Radhika Singh
+Rajni Kumari
 
